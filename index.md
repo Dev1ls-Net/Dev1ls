@@ -1,12 +1,23 @@
-<img src="http://www.clker.com/cliparts/5/1/b/d/11954315391526924611beastie_freebsd_daemon_r_02.svg.med.png">
+<center><img src="http://2.bp.blogspot.com/-5Ih3NRs9ROA/VJI7TPwI_xI/AAAAAAAAALY/UHOUuJ-hafg/s1600/How%2Bto%2Binstall%2BEggdrop.png"></center>
 
-Bots de #IRCBOTS
+#Bots de #IRCBOTS
                                 
 Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando tenga voz/+V uno de nuestros admin les asistira. Solicite via 
 [FORMULARIO DE SOLICITUD DE BOT #IRCBOT](http://ericbatista.com/operguard/formulario/index.html)
 
-<form action="http://formspree.io/you@email.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+<form action="https://formspree.io/info@ericbatista.com"
+      method="POST">
+    <input type="text" name="NiCK">
+    <input type="email" name="Correo Electronico">    
+    <input type="text" name="Tu Solicitud">
+    <input type="text" name="Canal">
+    <input type="submit" value="Enviar">
+</form>
 
+
+<center><img src="http://www.clker.com/cliparts/5/1/b/d/11954315391526924611beastie_freebsd_daemon_r_02.svg.med.png"></center>
+
+#ZNC Bouncer Service
 
 Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
                                 <h5><strong>DETALLES DE LA RED<br></strong></h5>
