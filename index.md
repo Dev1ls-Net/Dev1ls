@@ -1,3 +1,21 @@
+<img src="http://www.clker.com/cliparts/5/1/b/d/11954315391526924611beastie_freebsd_daemon_r_02.svg.med.png">
+
+Bots de #IRCBOTS
+                                
+Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando tenga voz/+V uno de nuestros admin les asistira. Solicite via 
+[FORMULARIO DE SOLICITUD DE BOT #IRCBOT](http://ericbatista.com/operguard/formulario/index.html)
+
+
+
+Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
+                                <h5><strong>DETALLES DE LA RED<br></strong></h5>
+				<p>links de Servicios:</p>
+                                <center><p> <a href="http://Dev1ls.hopto.org:31337"> Dev1ls ZNC Web Administrator</a></p></center>
+			        <center><p>Solicitud Solo via el Canal #IRCBot</p></center>
+          
+<object type="text/html" data="http://ericbatista.com/operguard/formulario/index.html" style="border:0; width:100%; height:450px;"></object>          
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ericbatista/Dev1ls/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
