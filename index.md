@@ -45,6 +45,7 @@ Solicitud tendra respuesta de 1 a 3 dias.
 # ZNC Bouncer Service
 
 <center><img src="http://www.clker.com/cliparts/5/1/b/d/11954315391526924611beastie_freebsd_daemon_r_02.svg.med.png"></center>
+
 ## Que es una ZNC:
 
 #### Una ZNC nos permite transmitir el tráfico y las conexiones como si fuera un proxy permitiéndonos ocultar la fuente original de la conexión del usuario, proporcionando privacidad, así como la capacidad para enrutar el tráfico a través de un lugar específico útil si estamos en un dominio, proxy o servidor que bloquea las salidas al IRC.
