@@ -3,8 +3,10 @@
 <center><img src="http://2.bp.blogspot.com/-5Ih3NRs9ROA/VJI7TPwI_xI/AAAAAAAAALY/UHOUuJ-hafg/s1600/How%2Bto%2Binstall%2BEggdrop.png"></center>
 
                                 
-## Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando tenga voz/+V uno de nuestros admin les asistira. Solicite via este Fomulario
+## Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando tenga voz/+V uno de nuestros administradores les asistira. Solicite via este Fomulario:
 
+---
+# Solicitud de Bot:
 <form action="https://formspree.io/info@ericbatista.com"
       method="POST">
     <input type="text" name="Nick" value="NiCK">
@@ -14,7 +16,7 @@
     <input type="submit" value="Enviar">
 </form>
 
-
+---
 
 # ZNC Bouncer Service
 
@@ -26,7 +28,9 @@
 [Dev1ls ZNC Web Administrator](http://Dev1ls.hopto.org:31337)
 
 ## Solicitud Solo via el Canal #IRCBot:
-				
+
+---		
+# Solicitud de ZNC:
 <form action="https://formspree.io/info@ericbatista.com"
       method="POST">
     <input type="text" name="Nick del ZNC" value="NiCK">
@@ -36,10 +40,14 @@
     <input type="submit" value="Enviar">
 </form>
 
+---
+
 ## Tambien Solicitar su BOT  o ZNC via canal #IRCBot en el siguiente webchat:
 
-<iframe src="https://kiwiirc.com/client/irc.chathispano.com/?nick=znc|?&theme=basic#IRCBot" style="border:0; width:100%; height:450px;"></iframe>
+---
 
+
+---
 
           
 # Radio ElCorito
