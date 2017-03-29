@@ -5,31 +5,7 @@ Bots de #IRCBOTS
 Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando tenga voz/+V uno de nuestros admin les asistira. Solicite via 
 [FORMULARIO DE SOLICITUD DE BOT #IRCBOT](http://ericbatista.com/operguard/formulario/index.html)
 
-
-<form method="post" name="myemailform" action="/form-to-email.php">
-	<p>
-		<label for='name'>Ingrese su nick: </label><br>
-		<input type="text" name="name">
-	</p>
-	<p>
-		<label for='email'>Ingrese su correo Electronico:</label><br>
-		<input type="text" name="email">
-	</p>
-	<p>
-		<label for='message'>Detalle canal y Uso del Bot:</label> <br>
-		<textarea name="message"></textarea>
-	</p>
-	<input type="submit" name='submit' value="Enviar Formulario">
-</form>
-<script language="JavaScript">
-// Code for validating the form
-// Visit http://www.javascript-coder.com/html-form/javascript-form-validation.phtml
-// for details
-var frmvalidator  = new Validator("myemailform");
-frmvalidator.addValidation("name","req","Please provide your name");
-frmvalidator.addValidation("email","req","Please provide your email");
-frmvalidator.addValidation("email","email","Please enter a valid email address");
-</script>
+<form action="http://formspree.io/you@email.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
 
 
 Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
