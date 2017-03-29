@@ -22,7 +22,7 @@
 
 #### Un bot de chat de retransmisión por Internet (bot IRC) es un tipo de aplicación que realiza tareas automatizadas dentro de una sala de chat o canal basado en IRC. Permite la realización de varias tareas específicas de canal en nombre del usuario y normalmente se configura como un operador de canal. 
                                 
-## Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando tenga voz/+V uno de nuestros administradores les asistira. Solicite via este Fomulario:
+## Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS Solicitelo via este Fomulario:
 
 
 ---
@@ -52,7 +52,6 @@ Solicitud tendra respuesta de 1 a 3 dias.
 
 
 ## Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
-
 
 
 ### links de Servicios:
