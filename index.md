@@ -81,6 +81,7 @@ Solicitud tendra respuesta de 1 a 3 dias.
 
 ---
 
+<iframe src="https://kiwiirc.com/client/irc.chathispano.com/?nick=znc|?&theme=basic#IRCBot" style="border:0; width:100%; height:450px;"></iframe>
 
 ---
 
