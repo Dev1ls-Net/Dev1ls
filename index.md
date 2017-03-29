@@ -1,10 +1,23 @@
+#   WELCOME TO DE DARKNET
+## Esta es la web designada a todos los servicios que se brindan gratuitamente en #IRCBot #IRCayuda #ElCorito y #Dominicanos, todos canales de la red ChatHispano.
+
+## Tenemos Bots y ZNC disponible bajo normas y requisitos establecidos por los administradores de estos servicios.
+
+## Porfavor sea paciente y trate de respetar los medios establecidos para dichos servicios ( recuerde que son gratuitos )
+
+## Espero que podamos colaborarle.
+
+### Att: Dev1ls
+ 
+
 # Bots de #IRCBOTS
 
 <center><img src="http://2.bp.blogspot.com/-5Ih3NRs9ROA/VJI7TPwI_xI/AAAAAAAAALY/UHOUuJ-hafg/s1600/How%2Bto%2Binstall%2BEggdrop.png"></center>
 
                                 
-## Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando tenga voz/+V uno de nuestros administradores les asistira. Solicite via este Fomulario:
+### Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando tenga voz/+V uno de nuestros administradores les asistira. Solicite via este Fomulario:
 
+#### Un bot de chat de retransmisión por Internet (bot IRC) es un tipo de aplicación que realiza tareas automatizadas dentro de una sala de chat o canal basado en IRC. Permite la realización de varias tareas específicas de canal en nombre del usuario y normalmente se configura como un operador de canal. 
 ---
 # Solicitud de Bot:
 <form action="https://formspree.io/info@ericbatista.com"
@@ -18,11 +31,17 @@
 
 ---
 
+Solicitud tendra respuesta de 1 a 3 dias.
+
+---
+
 # ZNC Bouncer Service
 
 <center><img src="http://www.clker.com/cliparts/5/1/b/d/11954315391526924611beastie_freebsd_daemon_r_02.svg.med.png"></center>
 
-## Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
+### Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
+
+#### Una ZNC nos permite transmitir el tráfico y las conexiones como si fuera un proxy permitiéndonos ocultar la fuente original de la conexión del usuario, proporcionando privacidad, así como la capacidad para enrutar el tráfico a través de un lugar específico útil si estamos en un dominio, proxy o servidor que bloquea las salidas al IRC.
 
 ### links de Servicios:
 [Dev1ls ZNC Web Administrator](http://Dev1ls.hopto.org:31337)
@@ -41,6 +60,11 @@
 </form>
 
 ---
+
+Solicitud tendra respuesta de 1 a 3 dias.
+
+---
+
 
 ## Tambien Solicitar su BOT  o ZNC via canal #IRCBot en el siguiente webchat:
 
