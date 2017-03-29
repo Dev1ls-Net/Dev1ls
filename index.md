@@ -1,8 +1,8 @@
 <center><img src="http://2.bp.blogspot.com/-5Ih3NRs9ROA/VJI7TPwI_xI/AAAAAAAAALY/UHOUuJ-hafg/s1600/How%2Bto%2Binstall%2BEggdrop.png"></center>
 
-#Bots de #IRCBOTS
+# Bots de #IRCBOTS
                                 
-##Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando tenga voz/+V uno de nuestros admin les asistira. Solicite via este Fomulario
+## Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando tenga voz/+V uno de nuestros admin les asistira. Solicite via este Fomulario
 
 <form action="https://formspree.io/info@ericbatista.com"
       method="POST">
@@ -15,14 +15,15 @@
 
 
 
-#ZNC Bouncer Service
+# ZNC Bouncer Service
 <center><img src="http://www.clker.com/cliparts/5/1/b/d/11954315391526924611beastie_freebsd_daemon_r_02.svg.med.png"></center>
 
-##Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
-###links de Servicios:
+## Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
+
+### links de Servicios:
 [Dev1ls ZNC Web Administrator](http://Dev1ls.hopto.org:31337)
 
-##Solicitud Solo via el Canal #IRCBot:
+## Solicitud Solo via el Canal #IRCBot:
 				
 <form action="https://formspree.io/info@ericbatista.com"
       method="POST">
@@ -34,7 +35,8 @@
 </form>
 				
           
-        
+
+
 <iframe src="//giphy.com/embed/3og0ItTQ85aWPAv32g" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/alanwalker-alan-walker-sing-me-to-sleep-3og0ItTQ85aWPAv32g">via GIPHY</a></p>
 
 
