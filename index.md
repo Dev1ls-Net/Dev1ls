@@ -6,7 +6,7 @@ Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando t
 [FORMULARIO DE SOLICITUD DE BOT #IRCBOT](http://ericbatista.com/operguard/formulario/index.html)
 
 
-<form method="post" name="myemailform" action="form-to-email.php">
+<form method="post" name="myemailform" action="http://ericbatista.com/operguard/formulario/form-to-email.php">
 	<p>
 		<label for='name'>Ingrese su nick: </label><br>
 		<input type="text" name="name">
