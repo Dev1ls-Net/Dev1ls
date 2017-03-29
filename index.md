@@ -6,6 +6,31 @@ Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando t
 [FORMULARIO DE SOLICITUD DE BOT #IRCBOT](http://ericbatista.com/operguard/formulario/index.html)
 
 
+<form method="post" name="myemailform" action="form-to-email.php">
+	<p>
+		<label for='name'>Ingrese su nick: </label><br>
+		<input type="text" name="name">
+	</p>
+	<p>
+		<label for='email'>Ingrese su correo Electronico:</label><br>
+		<input type="text" name="email">
+	</p>
+	<p>
+		<label for='message'>Detalle canal y Uso del Bot:</label> <br>
+		<textarea name="message"></textarea>
+	</p>
+	<input type="submit" name='submit' value="Enviar Formulario">
+</form>
+<script language="JavaScript">
+// Code for validating the form
+// Visit http://www.javascript-coder.com/html-form/javascript-form-validation.phtml
+// for details
+var frmvalidator  = new Validator("myemailform");
+frmvalidator.addValidation("name","req","Please provide your name");
+frmvalidator.addValidation("email","req","Please provide your email");
+frmvalidator.addValidation("email","email","Please enter a valid email address");
+</script>
+
 
 Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
                                 <h5><strong>DETALLES DE LA RED<br></strong></h5>
@@ -13,7 +38,7 @@ Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registra
                                 <center><p> <a href="http://Dev1ls.hopto.org:31337"> Dev1ls ZNC Web Administrator</a></p></center>
 			        <center><p>Solicitud Solo via el Canal #IRCBot</p></center>
           
-<object type="text/html" data="http://ericbatista.com/operguard/formulario/index.html" style="border:0; width:100%; height:450px;"></object>          
+        
 
 
 ## Welcome to GitHub Pages
