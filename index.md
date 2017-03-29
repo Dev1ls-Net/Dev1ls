@@ -10,7 +10,7 @@ Solicite su BOT para Proteccion/Youtube/Seen/Ping/RSS espere su turno y cuando t
     <input type="text" name="Nick" value="NiCK">
     <input type="email" name="Correo" value="Correo Electronico">    
     <input type="text" name="Solicitud" value="Tu Solicitud">
-    <input type="text" name="Canal" value="#Canal">
+    <input type="text" name="Canal" value="Canal">
     <input type="submit" value="Enviar">
 </form>
 
