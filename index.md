@@ -1,4 +1,8 @@
 #   WELCOME TO DE DARKNET
+---
+<iframe src="//giphy.com/embed/3og0ItTQ85aWPAv32g" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+---
 ## Esta es la web designada a todos los servicios que se brindan gratuitamente en #IRCBot #IRCayuda #ElCorito y #Dominicanos, todos canales de la red ChatHispano.
 
 ## Tenemos Bots y ZNC disponible bajo normas y requisitos establecidos por los administradores de estos servicios.
@@ -76,11 +80,10 @@ Solicitud tendra respuesta de 1 a 3 dias.
           
 # Radio ElCorito
 
-
-<iframe src="//giphy.com/embed/3og0ItTQ85aWPAv32g" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
+---
 
 ## Radio Variada Rock/Electronica/jazz/hiphop disponible en la web y enfocada en el chat #ElCorito en Chathispano.
-  
+
+---  
 <audio controls autoplay="autoplay"><source src="http://50.22.218.73:32388/;stream.mp3" type="audio/mp3">Your browser does not support the audio element.</audio>
 
