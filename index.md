@@ -19,10 +19,10 @@
 <center><img src="http://www.clker.com/cliparts/5/1/b/d/11954315391526924611beastie_freebsd_daemon_r_02.svg.med.png"></center>
 
 ##Solicita tu ZNC - Requisitos: Ser Operador o Fundador de un canal, Nick Registrado y mas de 3 meses de vigencia y Motivo por que quieres tu ZNC.
-                                <strong>DETALLES DE LA RED<br></strong>
-				<p>links de Servicios:</p>
-                                <center><p> <a href="http://Dev1ls.hopto.org:31337"> Dev1ls ZNC Web Administrator</a></p></center>
-			        <center><p>Solicitud Solo via el Canal #IRCBot</p></center>
+###links de Servicios:
+[Dev1ls ZNC Web Administrator](http://Dev1ls.hopto.org:31337)
+
+##Solicitud Solo via el Canal #IRCBot:
 				
 <form action="https://formspree.io/info@ericbatista.com"
       method="POST">
