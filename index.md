@@ -1,8 +1,10 @@
 #   WELCOME TO DE DARKNET
+
 ---
 <iframe src="//giphy.com/embed/3og0ItTQ85aWPAv32g" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ---
+
 ### Esta es la web designada a todos los servicios que se brindan gratuitamente en #IRCBot #IRCayuda #ElCorito y #Dominicanos, todos canales de la red ChatHispano.
 
 ### Tenemos Bots y ZNC disponible bajo normas y requisitos establecidos por los administradores de estos servicios.
@@ -12,11 +14,15 @@
 ### Espero que podamos colaborarle.
 
 #### Att: Dev1ls
+
+---
  
 
 # Bots de #IRCBOTS
 
 <center><img src="http://2.bp.blogspot.com/-5Ih3NRs9ROA/VJI7TPwI_xI/AAAAAAAAALY/UHOUuJ-hafg/s1600/How%2Bto%2Binstall%2BEggdrop.png"></center>
+
+---
 
 ## Que es un IRC Bot:
 
@@ -45,6 +51,8 @@ Solicitud tendra respuesta de 1 a 3 dias.
 # ZNC Bouncer Service
 
 <center><img src="http://www.clker.com/cliparts/5/1/b/d/11954315391526924611beastie_freebsd_daemon_r_02.svg.med.png"></center>
+
+---
 
 ## Que es una ZNC:
 
