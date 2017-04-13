@@ -33,7 +33,7 @@
 
 ---
 # Solicitud de Bot:
-<form action="https://formspree.io/info@ericbatista.com"
+<form action="https://formspree.io/dominicanoshispanos@gmail.com"
       method="POST">
     <input type="text" name="Nick" value="NiCK">
     <input type="email" name="Correo" value="Correo Electronico">    
@@ -69,7 +69,7 @@ Solicitud tendra respuesta de 1 a 3 dias.
 
 ---		
 # Solicitud de ZNC:
-<form action="https://formspree.io/info@ericbatista.com"
+<form action="https://formspree.io/dominicanoshispanos@gmail.com"
       method="POST">
     <input type="text" name="Nick del ZNC" value="NiCK">
     <input type="email" name="Correo" value="Correo Electronico">    
